@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Health Hub</string>
+    <string name="text_title">Future Updates!</string>
+    <string name="text_msg">We are highly ambitious to add geolocation based alert system in future.</string>
+</resources>
